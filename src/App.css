@@ -6,7 +6,3 @@ span:first-child{
   color: green;
   font-size: 34px;
 }
-
-span:last-child{
-  color: red;
-}
